@@ -5,3 +5,4 @@ test file
 
 New line added to 'new-feature' branch
 
+Another line in the alternative branch
