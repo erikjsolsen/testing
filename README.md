@@ -5,3 +5,5 @@ test file
 
 New line added to 'new-feature' branch
 
+NEW line in MASTER
+NEW line in MASTER
